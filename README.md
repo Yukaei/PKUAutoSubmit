@@ -1,5 +1,5 @@
 # PKUAutoSubmit (modified)
-入校学习test
+入校学习te
 
 **UPDATE 2020/10/18**
 
