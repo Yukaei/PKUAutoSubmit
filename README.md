@@ -1,4 +1,5 @@
 # PKUAutoSubmit (modified)
+入校学习
 
 **UPDATE 2020/10/18**
 
